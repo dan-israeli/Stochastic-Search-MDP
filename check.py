@@ -1,7 +1,7 @@
 import random
 import networkx as nx
 
-from ex2 import TaxiAgent, ids, OptimalTaxiAgent
+from assignment import TaxiAgent, ids, OptimalTaxiAgent
 from additional_inputs import additional_inputs
 from inputs import small_inputs
 import logging
